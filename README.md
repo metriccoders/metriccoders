@@ -16,10 +16,6 @@ Here are some of the projects we're working on:
 - **Full Stack LLM Applications**: We're developing end-to-end applications using Large Language Models.
 - **Indic Language Models**: We're working on models specifically designed for Indic languages.
 
-## Contributing 🤝
-
-We welcome contributions from everyone. Whether you're a seasoned developer or a beginner, there's a place for you in our community. Check out our CONTRIBUTING.md guide for more information on how to get started.
-
 ## Contact Us 📧
 
 Feel free to reach out to us if you have any questions or suggestions by emailing us at technologyappsdeveloper@gmail.com or on twitter using the twitter handle @metriccoders. You can also follow us on Twitter for updates.
