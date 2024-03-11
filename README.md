@@ -18,6 +18,5 @@ Here are some of the projects we're working on:
 
 ## Contact Us 📧
 
-Feel free to reach out to us if you have any questions or suggestions by emailing us at technologyappsdeveloper@gmail.com or on twitter using the twitter handle @metriccoders. You can also follow us on Twitter for updates.
-
+Feel free to reach out to us if you have any questions or suggestions by emailing us at technologyappsdeveloper@gmail.com.
 Join us in building the largest open-source AI community!
