@@ -1,6 +1,6 @@
 # Welcome to Metric Coders! 👋
 
-We are building the largest open-source AI community. Our repository comprises of various AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of frameworks such as PyTorch, Keras, TensorFlow, and Scikit-learn. Our website is www.metriccoders.com and feel free to star our repositories if you like them.
+We are building the largest open-source AI community. Our repository comprises of various AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of frameworks such as PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. Our website is www.metriccoders.com and feel free to star our repositories if you like them.
 
 ## Our Mission 🚀
 
