@@ -2,7 +2,7 @@
 
 We are building the largest open-source AI community. Our repository comprises of various AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of frameworks such as PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. Our blog is www.metriccoders.com and feel free to star our repositories if you like them.
 
-It is created and maintained by Suhas Bhairav. My linkedin profile is: https://www.linkedin.com/in/suhasbhairav/
+It is created and maintained by Suhas Bhairav. Linkedin profile is: https://www.linkedin.com/in/suhasbhairav/
 
 ## Our Mission 🚀
 
