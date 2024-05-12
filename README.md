@@ -20,5 +20,5 @@ Here are some of the projects we're working on:
 
 ## Contact Us 📧
 
-Feel free to reach out to us if you have any questions or suggestions by emailing us at technologyappsdeveloper@gmail.com.
+Feel free to reach out if you have any questions or suggestions by emailing at technologyappsdeveloper@gmail.com.
 Join us in building the largest open-source AI community!
