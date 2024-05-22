@@ -1,6 +1,6 @@
 # Welcome to Metric Coders! 👋
 
-We are building the largest open-source AI community. Our repository comprises of various AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of frameworks such as PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. Our blog is www.metriccoders.com and feel free to star our repositories if you like them.
+We are building the largest open-source AI community. Our repository comprises of various AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of frameworks such as PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. We are constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. Our blog is www.metriccoders.com and feel free to star our repositories if you like them.
 
 It is created and maintained by Suhas.
 
@@ -15,6 +15,7 @@ Here are some of the projects we're working on:
 - **AI Models**: We have a collection of state-of-the-art AI models for a variety of tasks.
 - **Datasets**: We provide high-quality datasets for training and testing AI models.
 - **Notebooks**: We share Jupyter notebooks, Google Colab and Python programs that demonstrate how to implement and use different AI models and datasets.
+- **Large Language Models**: We share Google Colab notebooks containing code to fine tune Large Language Models (LLMs) with custom data.
 - **Full Stack LLM Applications**: We're developing end-to-end applications using Large Language Models. This includes AI SaaS applications, including ones powered by Langchain.
 - **Indic Language Models**: We're working on models specifically designed for Indic languages.
 
