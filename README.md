@@ -6,7 +6,7 @@ It is created and maintained by Suhas Bhairav.
 
 ## Our Mission 🚀
 
-My mission is to democratize AI and make it accessible to everyone. I believe in the power of open-source and the impact it can have on the world. I invite you to join us on this journey!
+My mission is to democratize AI and make it accessible to everyone. I believe in the power of open-source and the impact it can have on the world. I invite you to join me on this journey!
 
 ## Projects 📚
 
