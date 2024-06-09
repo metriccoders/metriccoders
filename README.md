@@ -1,8 +1,8 @@
 # Welcome to Metric Coders! 👋
 
-I'm building the world's largest open-source AI SaaS platform. Our repository comprises of various full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. Our projects are implemented using a variety of Javascript frameworks such as Next JS, React JS and ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. I'm constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
+I'm building the world's largest open-source AI SaaS platform. The repository comprises of various full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, and more. The projects are implemented using a variety of Javascript frameworks such as Next JS, React JS and ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. I'm constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
-It is created and maintained by Suhas.
+It is created and maintained by Suhas Bhairav.
 
 ## Our Mission 🚀
 
@@ -22,4 +22,4 @@ Here are some of the projects I'm working on:
 ## Contact Us 📧
 
 Feel free to reach out if you have any questions or suggestions by emailing at technologyappsdeveloper@gmail.com.
-Join me in building the world's largest open-source AI SaaS platform
+Join me in building the world's largest open-source AI SaaS platform.
