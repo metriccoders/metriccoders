@@ -19,7 +19,7 @@ Here are some of the projects I'm working on:
 - **Large Language Models**: I share Google Colab notebooks containing code to fine tune Large Language Models (LLMs) with custom data.
 - **Indic Language Models**: I'm working on models specifically designed for Indic languages.
 
-## Contact Us 📧
+## Contact Me 📧
 
 Feel free to reach out if you have any questions or suggestions by emailing at technologyappsdeveloper@gmail.com.
 Join me in building the world's largest open-source AI SaaS platform.
