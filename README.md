@@ -23,3 +23,4 @@ Here are some of the projects I'm working on:
 
 ## Contact Me 📧
 Join me in building the world's largest open-source AI SaaS platform.
+Contact: info@metriccoders.com
