@@ -13,7 +13,7 @@ My mission is to democratize AI and make it accessible to everyone. I believe in
 
 Here are some of the projects I'm working on:
 
-- **AI Studio**: I'm developing a web platform to train and visualize ML models without the need to code. It is known as AI Studio.
+- **AI Studio**: I'm developing a no-code software to train, download and deploy ML models.
 - **Full Stack LLM Applications**: I'm developing end-to-end applications using Large Language Models. This includes AI SaaS applications, including ones powered by Langchain.
 - **AI Models**: I have a collection of state-of-the-art AI models for a variety of tasks.
 - **Datasets**: I provide high-quality datasets for training and testing AI models.
