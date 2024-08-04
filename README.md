@@ -3,7 +3,7 @@
 I'm Suhas and I'm building the world's largest open-source AI SaaS platform called Metric Coders. The repository comprises of various full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, Artificial Intelligence Studio, and more. The projects are implemented using a variety of Javascript frameworks such as Next JS, React JS and ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. I'm constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
 ## Main Project
-My main project right now is creating AI Studio, a web platform to train Machine Learning models in scikit-learn.
+My main project right now is creating a PyPI package for fine-tuning Large Language Models (LLMs) in one line, completly eliminating the need to remember the boilerplate. The Python package does all the hard work.
 
 ## My Mission 🚀
 
