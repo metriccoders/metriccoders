@@ -3,7 +3,7 @@
 I'm Suhas and I'm building the world's largest open-source AI SaaS platform called Metric Coders. The repository comprises of various full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, Artificial Intelligence Studio, and more. The projects are implemented using a variety of Javascript frameworks such as Next JS, React JS and ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. I'm constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
 ## Main Project
-My main project right now is creating a PyPI package for fine-tuning Large Language Models (LLMs) in one line, completly eliminating the need to remember the boilerplate. The Python package does all the hard work.
+My main project right now is creating a PyPI package for fine-tuning Large Language Models (LLMs) in one line called **one-line-llm-tuner**, completly eliminating the need to remember the boilerplate. The Python package does all the hard work.
 
 ## My Mission 🚀
 
@@ -13,6 +13,7 @@ My mission is to democratize AI and make it accessible to everyone. I believe in
 
 Here are some of the projects I'm working on:
 
+- **One Line LLM Tuner**: I'm creating a PyPI package to fine-tune LLMs in one line.
 - **AI Studio**: I'm developing a no-code software to train, download and deploy ML models.
 - **Full Stack LLM Applications**: I'm developing end-to-end applications using Large Language Models. This includes AI SaaS applications, including ones powered by Langchain.
 - **AI Models**: I have a collection of state-of-the-art AI models for a variety of tasks.
