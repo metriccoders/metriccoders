@@ -1,6 +1,8 @@
 # Welcome to Metric Coders! 👋
 
-I'm Suhas Bhairav and I'm building the world's largest open-source Large Language Models ecosystem called Metric Coders. The repository comprises of various full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, Artificial Intelligence Studio, and more. The projects are implemented using a variety of Javascript frameworks such as Next JS, ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. I'm constantly creating notebooks to fine tune Large Language Models (LLMs) with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
+I'm Suhas Bhairav and I'm building the world's largest open-source Large Language Models ecosystem called Metric Coders. The repository comprises of various Retrieval Augmented Generation (RAG) notebooks and python programs, fine-tuned Large Language Models, full-stack websites that use AI models, datasets, notebooks, full stack LLM applications, Indic language models, Artificial Intelligence Studio, and more. The projects are implemented using a variety of Javascript frameworks such as Next JS, ML models using PyTorch, Keras, TensorFlow, Scikit-learn and Langchain. 
+
+I'm constantly creating notebooks to fine tune Large Language Models (LLMs) and RAG notebooks with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
 ## Main Project
 My main project right now is creating a PyPI package for fine-tuning Large Language Models (LLMs) in one line called **one-line-llm-tuner**, completly eliminating the need to remember the boilerplate. The Python package does all the hard work.
@@ -13,6 +15,7 @@ My mission is to democratize AI and make it accessible to everyone. I believe in
 
 Here are some of the projects I'm working on:
 
+- **Retrieval Augmented Generation (RAG)**: I'm creating a large number of RAG notebooks and python programs using Llama-Index. These include RAG agents as well.
 - **One Line LLM Tuner**: I'm creating a PyPI package to fine-tune LLMs in one line.
 - **AI Studio**: I'm developing a no-code software to train, download and deploy ML models.
 - **Full Stack LLM Applications**: I'm developing end-to-end applications using Large Language Models. This includes AI SaaS applications, including ones powered by Langchain.
