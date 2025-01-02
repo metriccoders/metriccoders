@@ -5,7 +5,7 @@ I'm Suhas Bhairav and I'm building the world's largest open-source Large Languag
 I'm constantly creating notebooks to fine tune Large Language Models (LLMs) and RAG notebooks with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
 ## Main Project
-My main project right now is creating a PyPI package for fine-tuning Large Language Models (LLMs) in one line called **one-line-llm-tuner**, completly eliminating the need to remember the boilerplate. The Python package does all the hard work.
+My main project right now is creating starter projects for Generative AI using Open AI API, Next JS and Python.
 
 ## My Mission 🚀
 
