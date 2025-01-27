@@ -5,7 +5,7 @@ I'm Suhas Bhairav and I'm building the world's largest open-source Large Languag
 I'm constantly creating notebooks to fine tune Large Language Models (LLMs) and RAG notebooks with custom data. My blog is www.metriccoders.com and feel free to star my repositories if you like them.
 
 ## Main Project
-My main project right now is creating starter projects for AI Agents that integrate with applications such as Dropbox, Notion, and many more to automate the process of summarizing documents, creating important tasks from conversations, etc.
+My main project right now is building **MC Lab**, software system that runs any Large Language Models (LLMs) locally.
 
 ## My Mission 🚀
 
